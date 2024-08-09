@@ -1,1 +1,1 @@
-# INM701-CLASSIFIER
+# INM701-CLASSIFication Model
